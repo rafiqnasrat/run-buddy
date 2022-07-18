@@ -1,8 +1,15 @@
-# run-buddy
-i use mkdir in git bash
-touch also i uose in git bash
-i use header and foter
-a use for linke
+my redme
+# Run Buddy
 
-form also was ther for infot
-LI USE FOR LIST 
+## Purpose
+A website that offers fitness training services.
+
+## Built With
+* HTML
+* CSS
+
+## Website
+https://lernantino.github.io/run-buddy/
+
+## Contribution
+Made with ❤️ by [your name]
